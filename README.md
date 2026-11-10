@@ -1,4 +1,6 @@
-# ASCII Art DMR
+<p align="center"><img src="assets/icon.png" width="128" alt="RibeiroMD"></p>
+
+<h1 align="center">ASCII Art by RibeiroMD</h1>
 
 Converte qualquer imagem em ASCII art diretamente no browser — com caracteres, cores e ajustes personalizáveis.
 
